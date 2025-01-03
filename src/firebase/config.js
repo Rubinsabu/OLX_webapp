@@ -13,7 +13,7 @@ import { getStorage} from 'firebase/storage' //Import storage
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB5nJ_HQEHopi4KpN3wlf7VsUJ4SFbKKsQ",
+  apiKey: "Google_api_key",
   authDomain: "olx-project-4ba3a.firebaseapp.com",
   projectId: "olx-project-4ba3a",
   storageBucket: "olx-project-4ba3a.appspot.com",
