@@ -31,7 +31,7 @@ export default function Signup() {
             username:username,
             phone:phone
           }).then(()=>{
-            navigate("/login")
+            navigate("/login") 
           });
        
         console.log('User signed up and profile updated');
